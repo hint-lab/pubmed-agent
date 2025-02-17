@@ -1,0 +1,6 @@
+NCBI_API_KEY: xxxxxxxxx
+
+openai:
+  model: gpt-4o-mini
+  api_key: sk-xxxxxxxx
+  base_url: https://api.openai.com/v1

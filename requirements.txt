@@ -1,0 +1,7 @@
+metapub==0.5.7.4
+selenium>=4.0.0
+openai>=1.0.0
+aiohttp>=3.9.0
+PyYAML>=6.0.0
+requests>=2.31.0
+pytest>=7.4.0
